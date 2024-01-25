@@ -10,7 +10,7 @@ In the App we go to settings.
 
 On the settings screen we have the options "Delete cloud account" and "Delete local data".
 
-<image src="/Deletion of user data/2.png" alt="delete">
+<image src="/Deletion of user data/2.png" style="width: 400px;" alt="delete">
 
 Delete local data allows you to delete local data stored on the device.
 
