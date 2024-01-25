@@ -6,7 +6,7 @@ How can users delete their data in the Hot Wheels Collection App?
 
 In the App we go to settings.
 
-<image src="/Deletion of user data/1.png" alt="Settings">
+<image src="/Deletion of user data/1.png" style="width: 400px;" alt="Settings">
 
 On the settings screen we have the options "Delete cloud account" and "Delete local data".
 
